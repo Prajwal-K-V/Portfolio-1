@@ -1,5 +1,5 @@
 import React from "react";
-import projectImg from "../assets/project1.png"; // Change to your local image path
+import projectImg from "../assets/Project1.png"; // Change to your local image path
 
 function Projects() {
   return (
